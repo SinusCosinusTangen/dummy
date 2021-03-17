@@ -1,0 +1,15 @@
+title:       "Operating Systems 2021-1 (OS211)"
+copyright:   "2021-2021"
+description: "Hey there! I am using GitHub."
+author:           "James Frederix Rolianto"
+address:          "Depok"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://sinuscosinustangen.github.io/os211/"
+urlgithub:        "https://github.com/SinusCosinusTangen/os211/"
+urlghpage:        "https://sinuscosinustangen.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
